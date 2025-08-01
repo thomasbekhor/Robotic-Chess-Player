@@ -67,7 +67,7 @@ cam.set(cv.CAP_PROP_SATURATION, 120)
 cam.set(cv.CAP_PROP_EXPOSURE, -5)
 ```
 
-Captured image: <img src='tabuleiro.png' width='700' height='500'>
+Captured image: <img src='fotos/tabuleiro.png' width='700' height='500'>
 
 ### Board Detection
 
