@@ -1,7 +1,3 @@
-Here’s the full English translation of your README, preserving its structure and details:
-
----
-
 # Industrial Robotics Project – Automatic Chess Player
 
 Students of the 7th Semester in Mechatronics Engineering at Insper, for the Industrial Robotics course.
